@@ -1,7 +1,5 @@
 [Characters]
-empty
-empty
-empty
+
 Naruto,, order=1
 Naruto The Last,, order=1
 Naruto Nanadaime,, order=1

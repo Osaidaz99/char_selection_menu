@@ -33,3 +33,174 @@ CM_Luffy13,, order=1
 ZORO-D (mugen 1.1),, order=1
 Sanji13
 AceGB
+Law-Leaf,, order=1
+Mihawk,, order=1
+WhiteBeard\WB - Big Size.def,, order=1
+Shanks,, order=1
+DoflamingoSP,, order=1
+akainu
+Kizaru Borsalino,, order=1
+Aokiji Kuzan
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+StormEX--Ichigo,, order=1
+StormEX-Ogihci,, order=1
+Toushiro,, order=1
+Byakuya,, order=1
+K007'Ichimaru_Gin,, order=1
+Aizen,, order=1
+Goku,, order=1
+Gohan_Teen,, order=1
+Cell_Perfect,, order=1
+Broly,, order=1
+Natsu_1.0,, order=1
+Erza
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+Laxus,, order=1
+Kirito_SE,, order=1
+gon.def\Gon.def,, order=1
+jotaro.def\jotaro.def,, order=1
+Snake,, order=1
+Cloud
+squall,, order=1
+Dante_DMC4
+vergil,, order=1
+Ryu1.0\NormalRyu.def,, order=1
+ken-X,, order=1
+EvilRyu,, order=1
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+EvilKen
+Deadpool
+Chris_Vs,, order=1
+jill,, order=1
+MvC2Gambit,, order=1
+Wolverine,, order=1
+Akuma-Mugen11\NormalAkuma.def,, order=1
+kisuke
+Tsuna.def\Tsuna.def,, order=1
+spiderman,, order=1
+nero_DMC4,, order=1
+Seth\w_seth.def,, order=1
+empty
+empty
+
+Asuna,, order=1
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+TNDObito\NS-ZObitoum.def,, order=1
+
+empty
+empty
+empty
+empty
+empty
+empty
+randomselect
+
+randomselect
+
+Freezer_4_Form\Freezer_4_FormNZC.def,, order=1
+empty
+Gon\GonNZC.def,, order=1
+empty
+Killua\KilluaNZC.def,, order=1
+empty
+
+CFJ_JuriHan,, order=1
+Madara_Rikudou,, order=1
+Jin,, order=1
+CvTWJin,, order=1
+kazuya by Sdot_Thadon\kazuya.def,, order=1
+CvS_KazuyaTAG,, order=1
+CFJ_Hayabusa
+CvS_Heihachi,, order=1
+War Madara.def\War Madara.def,, order=1
+sabo,, order=1
+kenshin.def\kenshin.def,, order=1
+UchihaSasuke,, order=1
+Akainu Sakazuki
+Erza111\Erza.def,, order=1
+Luffy_TS
+
+
+;=====================================================================
+;Add Characters below!
+;=====================================================================
+
+[ExtraStages]
+stages\street_brawl.def
+stages\MarineFord.def
+stages\MarineFord1.def
+stages\Ussop Vs Luffy.def
+stages\Final_Valley.def
+stages\The_Valley_of_the_End_Day_1.1.def
+stages\The_Valley_of_the_End_Night_1.1.def
+stages\Konoha.def
+stages\Konoha_Destroyed.def
+stages\Tsuki_No_Me_1.1.def
+stages\Hueco Mundo.def
+stages\Grand Fisher Stage.def
+stages\Budokai_Tenkaichi_1.1.def
+stages\Saiyan_Duel_1.1.def
+stages\Saiyan_Duel_1.1_Platform.def
+stages\Wasteland.def
+stages\Fairy Tail Guild V2.def
+stages\Trost-District.def
+stages\RPD.def
+stages\Jin Dojo.def
+stages\kof-XIII-Old-South-Town_Stage.def
+stages\GGXXAC_A.D.2172.def
+stages\Isla Shadow Moses.def
+;---------------------------------------------------------------------
+
+[Options]
+;--------------------------------------------------
+;Set up the order of battles here for Arcade mode!
+;--------------------------------------------------
+arcade.maxmatches = 6,1,1,0,0,0,0,0,0,0
+;-------------------------------------------------------
+;Set up the order of battles here for Team Arcade mode!
+;-------------------------------------------------------
+team.maxmatches = 4,1,1,0,0,0,0,0,0,0
